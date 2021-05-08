@@ -1,6 +1,6 @@
 import Dashboard from 'pages/Dashboard';
-import Home from 'pages/Home';
-import React from 'react';
+import Home from 'pages/home';
+
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 const Routes = () => {
