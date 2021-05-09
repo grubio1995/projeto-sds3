@@ -18,7 +18,7 @@ const Pagination = ({ page, onPageChange }: Props) => {
                         <span className="page-link">{page.number + 1}</span>
                     </li>
                     <li className={`page-item ${page.last ? 'disabled' : ''}`}>
-                        <button className="page-link" onClick={() => onPageChange(page.number + 1)}>Anterior</button>
+                        <button className="page-link" onClick={() => onPageChange(page.number + 1)}>Próximo</button>
                     </li>
                 </ul>
             </nav>
