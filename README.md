@@ -3,7 +3,7 @@
 ### Event on May 3 to 9, 2021 to create a sales dashboard.
 
 ### Deploy:
-https://grubio-dsvendas.netlify.app/dashboard
+https://grubio-dsvendas.netlify.app/
 
 # Technologies
 
